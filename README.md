@@ -1,5 +1,7 @@
 # Tic Tac Toe with Python
 
+<img src="https://img.shields.io/badge/Made_With-Python-blue" width="150px" alt="Made with Python" />
+
 The classic Tic Tac Toe Game (XO Game) is based on Python using GUI Tkinter to make the interface of the game.
 
 I developed it as a project in [The Front End Diploma at the Almdrasa platform](https://almdrasa.com/front-end-diploma/).

@@ -2,6 +2,8 @@
 
 The classic Tic Tac Toe Game (XO Game) is based on Python using GUI Tkinter to make the interface of the game.
 
+I developed it as a project in [The Front End Diploma at the Almdrasa platform](https://almdrasa.com/front-end-diploma/).
+
 ## Features
 Our Tic Tac Toe game features a user-friendly interface with attractive colors, created using the tkinter GUI library. Before starting the game, you can choose from the following options:
 
@@ -16,17 +18,17 @@ You can also view both your score and the computer's score.
 
 ## Screenshots 
 
-![The screenshot of the start window of the Tic Tac Toe game - 01](/screenshots/01_Tic_Tac_Toe_Python.png)
+![The screenshot of the start window of the Tic Tac Toe game - 01](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/01_Tic_Tac_Toe_Python.png)
 
-![The screenshot of the start window of the Tic Tac Toe game - 02](/screenshots/02_Tic_Tac_Toe_Python.png)
+![The screenshot of the start window of the Tic Tac Toe game - 02](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/02_Tic_Tac_Toe_Python.png)
 
-![The screenshot of the playing window of the Tic Tac Toe game - 01](/screenshots/03_Tic_Tac_Toe_Python.png)
+![The screenshot of the playing window of the Tic Tac Toe game - 01](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/03_Tic_Tac_Toe_Python.png)
 
-![The screenshot of the playing window of the Tic Tac Toe game - 02](/screenshots/04_Tic_Tac_Toe_Python.png)
+![The screenshot of the playing window of the Tic Tac Toe game - 02](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/04_Tic_Tac_Toe_Python.png)
 
-![The screenshot of the playing window of the Tic Tac Toe game - 03](/screenshots/05_Tic_Tac_Toe_Python.png)
+![The screenshot of the playing window of the Tic Tac Toe game - 03](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/05_Tic_Tac_Toe_Python.png)
 
-![The screenshot of the playing window of the Tic Tac Toe game - 04](/screenshots/06_Tic_Tac_Toe_Python.png)
+![The screenshot of the playing window of the Tic Tac Toe game - 04](https://github.com/nureddinhaji/Tic-Tac-Toe-Python/blob/main/Screenshots/06_Tic_Tac_Toe_Python.png)
 
 ## Usage
 
